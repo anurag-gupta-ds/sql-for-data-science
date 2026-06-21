@@ -39,7 +39,7 @@ The objective of this repository is to develop practical skills in querying data
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | 🛒 **E-Commerce SQL Analysis** | *Coming soon* |
+| 1 | **-----** | *Coming soon* |
 
 ---
 
