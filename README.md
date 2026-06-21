@@ -10,30 +10,30 @@ The objective of this repository is to develop practical skills in querying data
 
 | # | File | Key Topics |
 |---|------|-----------|
-| 1 | [🆕 my-first-sql-query](./practice/my-first-sql-query.sql) | Database & Table Creation, Constraints |
-| 2 | [📝 insert-data-inside-table](./practice/insert-data-inside-table.sql) | INSERT Statement |
-| 3 | [🔍 querying-data-1](./practice/querying-data-1.sql) | WHERE, Comparison Operators, NULL Handling, BETWEEN |
-| 4 | [🔍 querying-data-2](./practice/querying-data-2.sql) | AND/OR, IN, ORDER BY, LIMIT |
-| 5 | [✏️ update-data](./practice/update-data.sql) | UPDATE Statement |
-| 6 | [🗑️ delete-drop-data-table](./practice/delete-drop-data-table.sql) | DELETE, DROP TABLE |
-| 7 | [🔧 rename-alter-query](./practice/rename-alter-query.sql) | RENAME TABLE, ALTER TABLE |
-| 8 | [🔒 constraints-sql](./practice/constraints-sql.sql) | UNIQUE, CHECK Constraints |
-| 9 | [📊 sql-functions](./practice/sql-functions.sql) | Aggregate Functions, String Functions, Date Functions |
-| 10 | [📦 groupby-sql](./practice/groupby-sql.sql) | GROUP BY, HAVING, ROLLUP |
-| 11 | [🔗 joins-sql](./practice/joins-sql.sql) | INNER, LEFT, RIGHT Joins |
-| 12 | [🔁 self-join-sql](./practice/self-join-sql.sql) | Self Join, Referral-style Relationships |
-| 13 | [🔑 foreignkey-sql](./practice/foreignkey-sql.sql) | Foreign Key, Referential Integrity, ON DELETE CASCADE |
-| 14 | [➕ union-unionall-sql](./practice/union-unionall-sql.sql) | UNION, UNION ALL |
-| 15 | [🧩 subqueries-sql](./practice/subqueries-sql.sql) | Subqueries in WHERE and SELECT |
-| 16 | [⚡ indexes-sql](./practice/indexes-sql.sql) | CREATE INDEX, DROP INDEX |
-| 17 | [👁️ view-sql](./practice/view-sql.sql) | CREATE VIEW, Querying Views |
-| 18 | [↩️ autocommit-rollback](./practice/autocommit-rollback.sql) | Transactions, COMMIT, ROLLBACK |
-| 19 | [📋 case-statement-sql](./practice/case-statement-sql.sql) | CASE WHEN Conditional Logic |
-| 20 | [🔗 ctes-common-table-expression-sql](./practice/ctes-common-table-expression-sql.sql) | Common Table Expressions |
-| 21 | [📊 windows-function-sql](./practice/windows-function-sql.sql) | Aggregate & Ranking Window Functions, LAG/LEAD |
-| 22 | [👥 employee-table-windows-functions](./practice/employee-table-windows-functions.sql) | Sample Dataset for Window Function Practice |
-| 23 | [⚙️ procedure-sql](./practice/procedure-sql.sql) | Stored Procedures, IN Parameters |
-| 24 | [⚡ triggers-sql](./practice/triggers-sql.sql) | Triggers, AFTER INSERT Events |
+| 1 | [🆕 my-first-sql-query](./practice-files/my-first-sql-query.sql) | Database & Table Creation, Constraints |
+| 2 | [📝 insert-data-inside-table](./practice-files/insert-data-inside-table.sql) | INSERT Statement |
+| 3 | [🔍 querying-data-1](./practice-files/querying-data-1.sql) | WHERE, Comparison Operators, NULL Handling, BETWEEN |
+| 4 | [🔍 querying-data-2](./practice-files/querying-data-2.sql) | AND/OR, IN, ORDER BY, LIMIT |
+| 5 | [✏️ update-data](./practice-files/update-data.sql) | UPDATE Statement |
+| 6 | [🗑️ delete-drop-data-table](./practice-files/delete-drop-data-table.sql) | DELETE, DROP TABLE |
+| 7 | [🔧 rename-alter-query](./practice-files/rename-alter-query.sql) | RENAME TABLE, ALTER TABLE |
+| 8 | [🔒 constraints-sql](./practice-files/constraints-sql.sql) | UNIQUE, CHECK Constraints |
+| 9 | [📊 sql-functions](./practice-files/sql-functions.sql) | Aggregate Functions, String Functions, Date Functions |
+| 10 | [📦 groupby-sql](./practice-files/groupby-sql.sql) | GROUP BY, HAVING, ROLLUP |
+| 11 | [🔗 joins-sql](./practice-files/joins-sql.sql) | INNER, LEFT, RIGHT Joins |
+| 12 | [🔁 self-join-sql](./practice-files/self-join-sql.sql) | Self Join, Referral-style Relationships |
+| 13 | [🔑 foreignkey-sql](./practice-files/foreignkey-sql.sql) | Foreign Key, Referential Integrity, ON DELETE CASCADE |
+| 14 | [➕ union-unionall-sql](./practice-files/union-unionall-sql.sql) | UNION, UNION ALL |
+| 15 | [🧩 subqueries-sql](./practice-files/subqueries-sql.sql) | Subqueries in WHERE and SELECT |
+| 16 | [⚡ indexes-sql](./practice-files/indexes-sql.sql) | CREATE INDEX, DROP INDEX |
+| 17 | [👁️ view-sql](./practice-files/view-sql.sql) | CREATE VIEW, Querying Views |
+| 18 | [↩️ autocommit-rollback](./practice-files/autocommit-rollback.sql) | Transactions, COMMIT, ROLLBACK |
+| 19 | [📋 case-statement-sql](./practice-files/case-statement-sql.sql) | CASE WHEN Conditional Logic |
+| 20 | [🔗 ctes-common-table-expression-sql](./practice-files/ctes-common-table-expression-sql.sql) | Common Table Expressions |
+| 21 | [📊 windows-function-sql](./practice-files/windows-function-sql.sql) | Aggregate & Ranking Window Functions, LAG/LEAD |
+| 22 | [👥 employee-table-windows-functions](./practice-files/employee-table-windows-functions.sql) | Sample Dataset for Window Function Practice |
+| 23 | [⚙️ procedure-sql](./practice-files/procedure-sql.sql) | Stored Procedures, IN Parameters |
+| 24 | [⚡ triggers-sql](./practice-files/triggers-sql.sql) | Triggers, AFTER INSERT Events |
 
 ## 🏗️ Project
 
@@ -117,7 +117,7 @@ Through this repository, I strengthened my understanding of:
 - Managing data integrity and transactions
 - Automating database actions using triggers and procedures
 - Real-world data analysis using SQL
-  
+
 ---
 
 ## 👨‍💻 Author
