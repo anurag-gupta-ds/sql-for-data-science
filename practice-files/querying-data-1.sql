@@ -1,0 +1,10 @@
+-- SELECT * FROM users WHERE gender='Male';
+-- SELECT * FROM users WHERE gender != 'Female';
+-- SELECT * FROM users WHERE gender <> 'Female';
+-- SELECT * FROM users WHERE date_of_birth < '1995-01-01';
+-- SELECT * FROM users WHERE id > 10;
+-- SELECT * FROM users WHERE id >= 5;
+-- SELECT * FROM users WHERE id <= 5;
+-- SELECT * FROM users WHERE date_of_birth IS NULL;
+-- SELECT * FROM users WHERE date_of_birth IS NOT NULL;
+SELECT * FROM users WHERE date_of_birth BETWEEN '1990-01-01' AND '2000-12-31';

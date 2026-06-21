@@ -1,0 +1,7 @@
+-- SELECT * FROM users;
+-- ALTER TABLE users ADD CONSTRAINT unique_eamil UNIQUE (email);
+-- ALTER TABLE users ADD CONSTRAINT chk_dob CHECK ( date_of_birth > '1920-01-01');
+-- INSERT INTO users (name, email, gender, date_of_birth, salary) VALUES
+-- ('Aarav', 'aarav34@example.com', 'Male', '1919-05-14', 65000.00);
+-- ALTER TABLE users ADD is_active BOOLEAN DEFAULT TRUE;
+-- SELECT * FROM users
