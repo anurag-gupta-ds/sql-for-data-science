@@ -10,7 +10,7 @@ The objective of this repository is to develop practical skills in querying data
 
 | # | File | Key Topics |
 |---|------|-----------|
-| 1 | [🆕 my-first-sql-query](./practice-files/my-first-sql-query.sql) | Database & Table Creation, Constraints |
+| 1 | [🆕 my-first-sql-query](./practice-files/my_first_sql_query.sql) | Database & Table Creation, Constraints |
 | 2 | [📝 insert-data-inside-table](./practice-files/insert-data-inside-table.sql) | INSERT Statement |
 | 3 | [🔍 querying-data-1](./practice-files/querying-data-1.sql) | WHERE, Comparison Operators, NULL Handling, BETWEEN |
 | 4 | [🔍 querying-data-2](./practice-files/querying-data-2.sql) | AND/OR, IN, ORDER BY, LIMIT |
