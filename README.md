@@ -39,8 +39,9 @@ The objective of this repository is to develop practical skills in querying data
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | **-----** | *Coming soon* |
-
+| 1 | [🏥 Hospital Management System (CRUD + Basic Analysis)](./sql-projects/hospital-management-system/) |  DONE |
+| 2 | **-----** | *Coming soon* |
+| 3 | **-----** | *Coming soon* |
 ---
 
 ## 🎯 Goals
