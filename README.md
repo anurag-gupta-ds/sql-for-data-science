@@ -40,7 +40,6 @@ The objective of this repository is to develop practical skills in querying data
 |---|---------|--------|
 | 1 | [🏥 Hospital Management System (CRUD + Basic Analysis)](./sql-projects/hospital-management-system/) | DONE |
 | 2 | [🍣 Danny's Diner (Joins, Window Functions, CASE Logic)](./sql-projects/danny-diner-sql-analysis/) | DONE |
-| 3 | **-----** | *Coming soon* |
 
 ## 🎯 Goals
 
