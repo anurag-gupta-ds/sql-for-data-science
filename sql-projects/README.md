@@ -9,7 +9,6 @@ The projects focus on applying SQL concepts to real-world business scenarios, in
 ## 📂 Projects
 
 ### 1. 🏥 Hospital Management System (CRUD + Basic Analysis)
-**Status:** ✅ Completed
 
 **Skills Demonstrated:**
 - Database Design
@@ -23,7 +22,6 @@ The projects focus on applying SQL concepts to real-world business scenarios, in
 ---
 
 ### 2. 🍽️ Danny's Diner SQL Case Study
-**Status:** 🚧 Coming Soon
 
 **Planned Skills:**
 - Customer Behavior Analysis
