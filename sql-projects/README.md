@@ -31,18 +31,6 @@ The projects focus on applying SQL concepts to real-world business scenarios, in
 
 ---
 
-### 3. 🛒 E-Commerce Sales Analysis
-**Status:** 🚧 Coming Soon
-
-**Planned Skills:**
-- Sales Performance Analysis
-- Customer Segmentation
-- Revenue Trends
-- Advanced Aggregations
-- Business KPI Reporting
-
----
-
 ## 🎯 Learning Objectives
 
 - Apply SQL to solve real-world business problems
