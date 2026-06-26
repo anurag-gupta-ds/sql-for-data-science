@@ -25,7 +25,6 @@ The projects focus on applying SQL concepts to real-world business scenarios, in
 
 **Planned Skills:**
 - Customer Behavior Analysis
-- CTEs
 - Window Functions
 - Date-Based Analysis
 - Business Insights
